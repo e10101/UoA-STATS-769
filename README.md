@@ -1,6 +1,4 @@
-# UoA-STATS-769
-
-2019 S2
+# UoA - STATS 769 - 2019 S2
 
 ## Week 1
 ### About csv data
