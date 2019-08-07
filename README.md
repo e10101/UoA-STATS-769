@@ -2,6 +2,12 @@
 
 ## Lab 02
 
+### Copying remote date to local
+
+```
+scp -r upi@sc-cer00014-04.its.auckland.ac.nz:/course/Labs/Lab02/ ./
+```
+
 Write below R code into a file and name it as `lab02.R` under your personal folder.
 ```
 trips201810 <- read.csv('/course/Labs/Lab02/trips-2018-10.csv')
